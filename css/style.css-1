@@ -1,0 +1,132 @@
+
+ nav {
+  background: #b5afbd;
+  letter-spracing: 1px;
+  padding: 2rem;
+  text-align: center;
+  font-size: 35px;
+  word-spacing: 100px;
+font-family: Roboto, sans-serif;
+}
+img {
+  margin: 1em auto;
+  margin-left: 43em;
+  height: 200px;
+  width 200px;
+}
+main {
+  font-size: 45px;
+  text-align: center;
+  margin: 1em auto;
+  background: #d2d4cd;
+  padding: 3em;
+  width: 4em;
+}
+p {
+  text-align: left;
+  float: left;
+  font-size: 30px;
+  width: 15em;
+  margin-left: 9em;
+  background: #d1c7c5;
+  padding: 2rem;
+}
+#img2 img {
+  float: right;
+  width: 400px;
+  height: 550px;
+  margin-top: -40em;
+  margin-right: 12em;
+}
+i {
+  font-size: 30px;
+  float: right;
+  margin-right: 12em;
+  margin-bottom: 6em;
+  margin-top: -6em;
+}
+
+
+
+#hc img {
+  width: 300px;
+  height: 200px;
+  margin-top: -2em;
+  margin-right: -14em;
+}
+#beach img {
+  width: 200px;
+  height: 350px;
+  float: right;
+  margin-top: -13em;
+  margin-right: 31em;
+}
+#purple img {
+  width: 200px;
+  height: 320px;
+  margin-top: -23em;
+  margin-right: 44em;
+}
+#kar img {
+  width: 270px;
+  height: 350px;
+  margin-top: -23em;
+  margin-right: 57em;
+}
+#hc2 img {
+  width: 270px;
+  height: 200px;
+  margin-top: -23em;
+  margin-right: 75em;
+}
+
+#p2 {
+  text-align: center;
+  margin-top: 5em; 
+  width: 30em;
+  margin-left: 11em;
+  border-width: 4px;
+  border-color: #594d4a;
+  border-style: solid;
+}
+
+#mich-leg img {
+  width: 15em;
+  height: 10em;
+  float: left;
+  margin-top: 1em;  
+  margin-left: 15em;
+}
+#dran-leg img {
+ width: 15em;
+  height: 10em;
+  float: right;
+  margin-top: -11em;  
+}
+
+#mich-split img {
+  width: 15em;
+  height: 10em;
+  margin-top: -11em;
+  margin-right: 32em;
+}
+#dran-shower img {
+  width: 15em;
+  height: 15em;
+  margin-right: 50em;
+  margin-top: -11em;
+}
+
+#p3 {
+  text-align: center;
+  margin-left: 18em;
+  width: 40em;
+  background: #b5afbd;
+  padding: 1em;
+  font-size: 20px;
+}
+
+body {
+  background-image: url('https://st2.depositphotos.com/4376739/7076/v/950/depositphotos_70768923-stock-illustration-seamless-texture-wallpapers-in-the.jpg');
+  opacity: 0.9;
+}
